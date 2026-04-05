@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Menu, X, ArrowRight, Package, ShieldCheck, Star } from 'lucide-react';
 
 const Instagram = ({ size }: { size: number }) => (
